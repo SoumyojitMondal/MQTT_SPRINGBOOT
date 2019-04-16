@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootRestfulPostJSON
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: soumyojit.mondal
+Implementation-Vendor-Id: com.java4s
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootRe
+ stfulPostJSON/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
